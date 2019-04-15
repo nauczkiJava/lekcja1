@@ -27,7 +27,7 @@ public class Main {
         System.out.println("Roznica: " + (a - b));
         System.out.println("Iloczyn: " + (a * b));
         System.out.println("Iloraz: " + (a / b));
-        System.out.println("Reszta z dzielenia przez 10: " + (a % b));
+        System.out.println("Reszta z dzielenia jedna przez drugą: " + (a % b));
     }
 
     public static void zad3() {
